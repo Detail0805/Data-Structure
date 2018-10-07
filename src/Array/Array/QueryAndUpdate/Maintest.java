@@ -1,4 +1,4 @@
-package Array.QueryAndUpdate;
+package Array.Array.QueryAndUpdate;
 
 public class Maintest {
 	    public static void main(String[] args) {
