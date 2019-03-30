@@ -6,7 +6,7 @@ public class Array {
     private int[] data;
     private int size;
 
-    // 構造函數，傳入數組的容量capacity構造Array
+    // 構造函數，傳入數組的容量capacity構造Array  123
     public Array(int capacity){
         data = new int[capacity];
         size = 0;
