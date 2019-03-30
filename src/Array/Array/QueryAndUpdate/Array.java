@@ -8,6 +8,7 @@ public class Array {
 
     // 構造函數，傳入數組的容量capacity構造Array //456change
     //a
+    //b
     public Array(int capacity){
         data = new int[capacity];
         size = 0;
